@@ -1,7 +1,7 @@
 # Api Http Status Control
 
 **Proje Hakkında**
-* Proje Rest Assured ile yapılmıştır, programa dili javadır.
+* Proje Rest Assured(java) ile yazılmıştır.
 * Projede api isteğinin sonucunu kontrol eder. Response status code 200 
 ise başarılı bir şekilde tamamlanır.
 
